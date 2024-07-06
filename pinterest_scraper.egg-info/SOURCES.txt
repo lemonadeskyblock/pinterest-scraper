@@ -1,0 +1,10 @@
+setup.py
+package/__init__.py
+package/improved_scraper.py
+package/main.py
+pinterest_scraper.egg-info/PKG-INFO
+pinterest_scraper.egg-info/SOURCES.txt
+pinterest_scraper.egg-info/dependency_links.txt
+pinterest_scraper.egg-info/entry_points.txt
+pinterest_scraper.egg-info/requires.txt
+pinterest_scraper.egg-info/top_level.txt

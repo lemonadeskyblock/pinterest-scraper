@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pinterest-scraper
+Version: 0.1
+Requires-Dist: selenium
+Requires-Dist: webdriver-manager
+Requires-Dist: requests
